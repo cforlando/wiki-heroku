@@ -12,7 +12,7 @@
 
 ## Resources for Brigadiers
 
-#### How to start a project
+#### <a href="http://wiki.codefororlando.com/project-guidelines">How to start a project</a>
 #### How to contribute to an exsisting project
 #### Our Development Process
 #### Code for America Resouces
