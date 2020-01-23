@@ -45,7 +45,9 @@ After building and launching your MVP, test it. Get feedback from people who wil
 ## Support Stage 
 
 ### Make it sustainable 
-Eventually, your contributions to a project will end, and the project will need to be handed off to another person or organization. (Ideally, this organization is a community partner you’ve built a relationship with over the course of the project.) Make the transition easy. Prepare a maintenance program. This will require the current owner of the project, or someone in a similar role, to:  
+Eventually, your contributions to a project will end, and the project will need to be handed off to another person or organization. (Ideally, this organization is a community partner you’ve built a relationship with over the course of the project.) Make the transition easy. Prepare a maintenance program. 
+
+This will require the current owner of the project, or someone in a similar role, to:  
 * Hold a discussion with the person or organization about maintenance needs 
 * Develop a plan for user/admin training 
 * Oversee up-to-date project deliverables, documents and reports 
