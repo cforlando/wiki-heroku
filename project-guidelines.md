@@ -7,7 +7,7 @@
 ### Pick an issue you care about 
 Form a team around a general topic everyone is passionate about. Come up with a working project name. Ask Code for Orlando leadership to set up a Github repository for your project within the Code for Orlando organization. 
 
-Keep the team organized and track progress from the very beginning. Take notes during meetings. Markdown files are text files written with markdown syntax and tend to have a `md` extension. We recommend using markdown files in Github to document meetings. 
+Keep the team organized and track progress from the very beginning. Take notes during meetings. Markdown files are text files written with markdown syntax and tend to have a `.md` extension. We recommend using markdown files in Github to document meetings. 
 
 ### Start with people's needs 
 Get to know the people you're designing with. Build products that they care about. For now, hold off on jumping into any design or coding. Focus on speaking with potential users. 
