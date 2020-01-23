@@ -35,7 +35,7 @@ Get the encouragement and support you need to make the most of your experience.
 ### How to Make a Buddy
 Here are a few ways to find a buddy:
 
-* Attend one of our meetups. [Note: will there be a sign up system upon arrival to match buddies?]
+* Attend one of our meetups. [Note: Matching buddy program coming soon]
 * Join our Slack and connect with brigade members in the #general chat channel. Let people know you're looking for a buddy.
 * When you find out who your buddy is, make introductions and exchange contact information. Regularly check in with your buddy to stay productive, get feedback or discuss your progress on a project.
 
