@@ -28,10 +28,10 @@ Brainstorm and come up with as many solutions as possible.
 ### Bring your idea to life with a prototype 
 Create a prototype of one of your solutions. A prototype is X. 
 
-Test your idea 
+### Test your idea 
 Share your prototype with your users and get feedback. 
 
-### Late Stage 
+## Late Stage 
 
 ### Focus on your MVP 
 Build a minimum viable product (MVP).  
