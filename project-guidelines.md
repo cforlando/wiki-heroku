@@ -10,8 +10,7 @@ Form a team around a general topic everyone is passionate about. Come up with a 
 Keep the team organized and track progress from the very beginning. Take notes during meetings. Markdown files are text files written with markdown syntax and tend to have a `.md` extension. We recommend using markdown files in Github to document meetings. 
 
 ### Start with people's needs 
-Get to know the people you're designing with. Build products that they care about. For now, hold off on jumping into any design or coding. Focus on speaking with potential users. 
-Conduct research to learn more about your users and their needs. Methods can include in-depth interviews, surveys, literature review, journey mapping, and subject matter expert interviews. 
+Get to know the people you're designing with. Build products that they care about. For now, hold off on jumping into any design or coding. Focus on speaking with potential users.  Conduct research to learn more about your users and their needs. Methods can include in-depth interviews, surveys, literature review, journey mapping, and subject matter expert interviews. 
 
 Additionally, try partnering with a community organization whose mission aligns with your team’s interests. Invite them to a Community Action Night and work with them to find a problem that needs a tech solution. 
 
